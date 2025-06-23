@@ -1,6 +1,8 @@
 import data
 from sandwich_maker import SandwichMaker
 from cashier import Cashier
+from sandwich_maker import SandwichMaker
+from cashier import Cashier
 
 
 # Make an instance of other classes here

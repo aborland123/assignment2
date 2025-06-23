@@ -14,6 +14,7 @@ cashier_instance = ######
 
 def main():
     ###  write the rest of the codes ###
+    print("does this work?")
 
 if __name__=="__main__":
     main()
